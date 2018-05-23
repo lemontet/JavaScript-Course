@@ -1,0 +1,39 @@
+
+// Container div
+.background {
+  background-color: blue;
+  margin: 0 auto;
+  width: 20%;
+  // padding: 50%, 10%, 10%, 10%;
+  padding-top: 5%;
+  padding-right: 5%;
+  padding-left: 5%;
+  padding-bottom: 5%;
+
+}
+
+// Button
+.home-button {
+  border: none;
+  background-color: green;
+  margin: 0 auto;
+  width: 100%;
+}
+
+// Img in button
+.mystery-block {
+  padding-top: 5%;
+  width: 100%;
+  height: auto;
+}
+
+// Mystery Heading
+.mystery-heading {
+  padding-top: 20%;
+  text-align: center;
+  @import url('https://fonts.googleapis.com/css?family=Bungee+Outline|Lily+Script+One|Poiret+One');
+  font-family: 'Lily Script One', cursive;
+  color: white;
+  font-size: 150%;
+  word-wrap: break-word;
+}
